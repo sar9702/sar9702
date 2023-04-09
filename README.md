@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=6699FF&height=200)
+![shark](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=140)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
