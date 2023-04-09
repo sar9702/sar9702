@@ -1,6 +1,4 @@
-<h2 align="center">
-    <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=140">
-</h2>
+![shark](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=140)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
