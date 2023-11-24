@@ -44,4 +44,5 @@
 
 ### 👩‍💻 About me
 [![Portfolio Badge](https://img.shields.io/badge/notion-000000?style=flat&logo=Notion&logoColor=white)](https://better-galaxy-df4.notion.site/223ac45f326945d18be30ce25851a14f)
+[![Velog](https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white")](https://velog.io/@dailynote31)
 [![Naver Badge](https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/ars970207)
